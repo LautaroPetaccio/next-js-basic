@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "predeploy": "npm next-build"
+  },
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "next-js-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "next-dev": "next",
+    "next-build": "next build",
+    "next-start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LautaroPetaccio/next-js-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LautaroPetaccio/next-js-basic/issues"
+  },
+  "homepage": "https://github.com/LautaroPetaccio/next-js-basic#readme",
+  "devDependencies": {
+    "firebase-tools": "^8.0.2"
+  },
+  "dependencies": {
+    "next": "^9.3.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
